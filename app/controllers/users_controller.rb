@@ -13,7 +13,7 @@ class UsersController < ApplicationController
     if @user.save
       # Обработать успешное сохранение
     else
-      render 'new'
+      render action: 'new'
     end
   end
 
