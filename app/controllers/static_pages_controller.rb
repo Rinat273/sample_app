@@ -12,4 +12,6 @@ class StaticPagesController < ApplicationController
   end
   
 end
-#dfdfdf
+
+# test!!!
+# test 2
